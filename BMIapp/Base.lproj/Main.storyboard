@@ -89,6 +89,7 @@
                     <connections>
                         <outlet property="BMILabel" destination="ge7-te-wTh" id="xYl-sV-8NT"/>
                         <outlet property="heightTextField" destination="aq8-uF-xOk" id="lpM-h8-UeB"/>
+                        <outlet property="weightTextField" destination="LdD-mh-nlS" id="O9p-Ii-H3P"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
